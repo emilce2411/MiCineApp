@@ -1,0 +1,6 @@
+{
+  "name": "CineTrack",
+  "description": "Centro de control inteligente para películas y series: seguimiento de episodios, streaming por país, modo spoiler-safe y listas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
